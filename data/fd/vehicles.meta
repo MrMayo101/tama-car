@@ -7,8 +7,8 @@
       <modelName>fd</modelName>
       <txdName>fd</txdName>
       <handlingId>fd</handlingId>
-      <gameName>FD</gameName>
-      <vehicleMakeName>Mazda</vehicleMakeName>
+      <gameName>fd</gameName>
+      <vehicleMakeName>Honda</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
       <animConvRoofDictName>null</animConvRoofDictName>
@@ -116,7 +116,7 @@
  <txdRelationships>
     <Item>
       <parent>vehicles_btype_interior</parent>
-      <child>FD</child>
+      <child>fd</child>
     </Item>
  </txdRelationships>
 </CVehicleModelInfo__InitDataList> 
