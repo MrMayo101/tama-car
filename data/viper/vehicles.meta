@@ -4,10 +4,10 @@
   <residentAnims />
   <InitDatas>
     <Item>
-      <modelName>Viper</modelName>
-      <txdName>Viper</txdName>
+      <modelName>viper</modelName>
+      <txdName>viper</txdName>
       <handlingId>VIPER</handlingId>
-      <gameName>Dodge Viper</gameName>
+      <gameName>viper</gameName>
       <vehicleMakeName>Dodge</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -114,9 +114,9 @@
     </Item>
     <Item>
       <modelName>acr</modelName>
-      <txdName>Viper</txdName>
+      <txdName>viper</txdName>
       <handlingId>ACR</handlingId>
-      <gameName>Dodge Viper ACR</gameName>
+      <gameName>acr</gameName>
       <vehicleMakeName>Dodge</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
