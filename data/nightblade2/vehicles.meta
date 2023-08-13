@@ -3,13 +3,12 @@
   <residentTxd>vehshare</residentTxd>
   <residentAnims />
   <InitDatas>
-
     <Item>
       <modelName>nightblade2</modelName>
       <txdName>nightblade2</txdName>
-      <handlingId>nightblade2</handlingId>
-      <gameName>Nightblade Classic</gameName>
-      <vehicleMakeName>WESTERN</vehicleMakeName>
+      <handlingId>NIGHTBLADE2</handlingId>
+      <gameName>nightblade</gameName>
+      <vehicleMakeName>Western</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
       <animConvRoofDictName>null</animConvRoofDictName>
@@ -83,7 +82,7 @@
       <frequency value="20" />
       <swankness>SWANKNESS_3</swankness>
       <maxNum value="4" />
-<flags>FLAG_HAS_LIVERY FLAG_NO_BOOT FLAG_IGNORE_ON_SIDE_CHECK FLAG_AVERAGE_CAR FLAG_HEADLIGHTS_USE_ACTUAL_BONE_POS FLAG_CAN_HAVE_NEONS</flags>
+      <flags>FLAG_HAS_LIVERY FLAG_NO_BOOT FLAG_IGNORE_ON_SIDE_CHECK FLAG_AVERAGE_CAR FLAG_HEADLIGHTS_USE_ACTUAL_BONE_POS FLAG_CAN_HAVE_NEONS</flags>
       <type>VEHICLE_TYPE_BIKE</type>
       <plateType>VPT_NONE</plateType>
       <dashboardType>VDT_BANSHEE</dashboardType>

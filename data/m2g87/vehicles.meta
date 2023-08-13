@@ -3,22 +3,11 @@
   <residentTxd>vehshare</residentTxd>
   <residentAnims />
   <InitDatas>
-
-
-
-
-
-
-
-
-
-
-
 	<Item>
       <modelName>m2g87</modelName>
       <txdName>m2g87</txdName>
-      <handlingId>m2g87</handlingId>
-      <gameName>M2 G87</gameName>
+      <handlingId>M2G87</handlingId>
+      <gameName>m2g87</gameName>
       <vehicleMakeName>BMW</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -123,26 +112,11 @@
         <Item>STD_DOMINATOR_FRONT_RIGHT</Item>
       </firstPersonDrivebyData>
     </Item>
-
-
-
-
-
-
-
-
-
-
   </InitDatas>
   <txdRelationships>
-
 	<Item>
           <parent>vehicles_race_generic</parent>
       <child>m2g87</child>
     </Item>
-
-
-
-	
   </txdRelationships>
 </CVehicleModelInfo__InitDataList>

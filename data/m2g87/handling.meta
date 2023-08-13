@@ -3,7 +3,7 @@
 <CHandlingDataMgr>
   <HandlingData>
     <Item type="CHandlingData">
-      <handlingName>m2g87</handlingName>
+      <handlingName>M2G87</handlingName>
       <fMass value="1650.000000" />
       <fInitialDragCoeff value="5.000000" />
       <fPercentSubmerged value="85.000000" />
@@ -59,15 +59,5 @@
         <Item type="NULL" />
       </SubHandlingData>
     </Item>
-	
-
-
-
-
-
-
-
-
-
   </HandlingData>
 </CHandlingDataMgr>

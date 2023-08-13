@@ -2,13 +2,12 @@
 <CVehicleModelInfo__InitDataList>
   <residentTxd>vehshare</residentTxd>
   <residentAnims />
-
   <InitDatas>
     <Item>
       <modelName>m4f82</modelName>
       <txdName>m4f82</txdName>
-      <handlingId>m4f82</handlingId>
-      <gameName>m4</gameName>
+      <handlingId>M4F82</handlingId>
+      <gameName>m4f82</gameName>
       <vehicleMakeName>BMW</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>

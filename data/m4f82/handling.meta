@@ -2,7 +2,7 @@
 <CHandlingDataMgr>
   <HandlingData>
     <Item type="CHandlingData">
-      <handlingName>m4f82</handlingName>
+      <handlingName>M4F82</handlingName>
       <fMass value="1400.000000" />
       <fInitialDragCoeff value="5.000000" />
       <fPercentSubmerged value="85.000000" />

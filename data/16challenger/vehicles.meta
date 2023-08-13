@@ -2,14 +2,13 @@
 <CVehicleModelInfo__InitDataList>
   <residentTxd>vehshare</residentTxd>
   <residentAnims />
-  
-  <InitDatas>
+    <InitDatas>
     <Item>
       <modelName>16challenger</modelName>
       <txdName>16challenger</txdName>
       <handlingId>16CHALLENGER</handlingId>
-      <gameName>CHALLENGER</gameName>
-      <vehicleMakeName>DODGE</vehicleMakeName>
+      <gameName>16challenger</gameName>
+      <vehicleMakeName>Dodge</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
       <animConvRoofDictName>null</animConvRoofDictName>
@@ -109,14 +108,11 @@
         <Item>LOW_RAPIDGT_FRONT_RIGHT</Item>
       </firstPersonDrivebyData>
     </Item>
-
  </InitDatas>
-
   <txdRelationships>
     <Item>
       <parent>vehicles_race_generic</parent>
       <child>16challenger</child>
     </Item>
   </txdRelationships>
-
 </CVehicleModelInfo__InitDataList>

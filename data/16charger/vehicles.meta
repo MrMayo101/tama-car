@@ -2,21 +2,20 @@
 <CVehicleModelInfo__InitDataList>
   <residentTxd>vehshare</residentTxd>
   <residentAnims />
-  
-  <InitDatas>
+    <InitDatas>
     <Item>
       <modelName>16charger</modelName>
       <txdName>16charger</txdName>
-      <handlingId>16charger</handlingId>
-      <gameName>CHARGER</gameName>
-      <vehicleMakeName>DODGE</vehicleMakeName>
+      <handlingId>16CHARGER</handlingId>
+      <gameName>16charger</gameName>
+      <vehicleMakeName>Dodge</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
       <animConvRoofDictName>null</animConvRoofDictName>
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash>GAUNTLET</audioNameHash>
+      <audioNameHash>cammedcharger</audioNameHash>
       <layout>LAYOUT_STD_LOWROOF</layout>
       <coverBoundOffsets>BUFFALO2_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -125,14 +124,11 @@
         <Item>STD_BUFFALO_REAR_RIGHT</Item>
       </firstPersonDrivebyData>
     </Item>
-
  </InitDatas>
-
   <txdRelationships>
 	<Item>
       <parent>vehicles_race_generic</parent>
       <child>16charger</child>
     </Item>	
   </txdRelationships>
-
 </CVehicleModelInfo__InitDataList>
